@@ -1,0 +1,32 @@
+:imagesdir: images/
+
+This section of the documentation is going to contain details about each section of the course as we begin to build out our Reddit clone. In
+each of these sections I will provide information, code or even links to topics that we discuss as we start to develop our application. Each
+section underneath Building Springit represents a section in the course from here on out. So if you're working on the Service Layer section,
+click on the Service Layer sub section here to find all of the accompanying documentation. 
+
+TIP: MVC stands for Model View Controller
+
+=== Spring MVC: Model
+include::course_sections/_spring-mvc-model.adoc[]
+
+=== Database Layer
+include::course_sections/_database.adoc[]
+
+=== Spring MVC: Controller
+include::course_sections/_spring-mvc-controller.adoc[]
+
+=== Spring MVC: The View Layer
+include::course_sections/_spring-mvc-view.adoc[]
+
+=== Spring Security
+include::course_sections/_spring-security.adoc[]
+
+=== Voting
+include::course_sections/_voting.adoc[]
+
+=== Comments
+include::course_sections/_comments.adoc[]
+
+=== Spring MVC: The Service Layer
+include::course_sections/_service.adoc[]
